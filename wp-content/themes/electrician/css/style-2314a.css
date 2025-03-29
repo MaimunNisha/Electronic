@@ -9125,7 +9125,7 @@ html.ie:not(.edge) .checkbox-group label .check {
     -ms-flex-align: center;
     align-items: center;
     position: relative;
-    min-height: 114px;
+    min-height: 80px;
 }
 
 .tt-holder .tt-col-wide {
@@ -9192,7 +9192,7 @@ html.ie:not(.edge) .checkbox-group label .check {
 }
 
 #js-init-sticky {
-    min-height: 114px;
+    min-height: 80px;
 }
 
 #js-init-sticky.fixed .tt-holder-wrapper {
@@ -11132,12 +11132,12 @@ html.ie:not(.edge) .checkbox-group label .check {
 }
 
 .mainSlider {
-    height: 774px;
+    height: 574px;
 }
 
 @media (max-width: 1024px) and (min-width: 551px) {
     .mainSlider {
-        height: 365px;
+        height: 265px;
     }
 }
 
@@ -11155,7 +11155,7 @@ html.ie:not(.edge) .checkbox-group label .check {
     background-size: cover;
     background-position: center top;
     background-repeat: no-repeat;
-    height: 774px;
+    height: 574px;
     -webkit-transition: -webkit-transform 6s ease;
     transition: -webkit-transform 6s ease;
     transition: transform 6s ease;
@@ -11164,13 +11164,13 @@ html.ie:not(.edge) .checkbox-group label .check {
 
 @media (max-width: 1239px) {
     .mainSlider .slide .img--holder {
-        height: 774px;
+        height: 500px;
     }
 }
 
 @media (max-width: 1024px) and (min-width: 551px) {
     .mainSlider .slide .img--holder {
-        height: 365px;
+        height: 265px;
     }
 }
 
